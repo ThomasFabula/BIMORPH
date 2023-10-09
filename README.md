@@ -1,7 +1,7 @@
 # BIMORPH
 
 ## MEMS
-- MEMS microactuator based on silicon diaphragm with piezoceramic
+- MEMS microactuator based on silicon diaphragm with piezoceramic (PZT)
 - Material properties via BIMORPH.MAT
 - piezo-electric BIMORPH microactuator
 
